@@ -104,6 +104,16 @@ QQ 信箱会弹出一个警示页面，请点击【继续访问】按钮
 
 ![list_forwarding_after_verify](list_forwarding_after_verify.png)
 
+然后请根据个人转发信箱的类型配置发信功能（比如转发地址是 217017@qq.com，请按照 [QQ 邮箱](#qq邮箱) 配置）
+
+* [Gmail](#gmail)
+
+* [Outlook](#outlook)
+
+* [QQ 邮箱](#qq邮箱)
+
+* [126 邮箱](#126邮箱)
+
 #### 重新验证转发地址
 
 #### 删除转发地址
