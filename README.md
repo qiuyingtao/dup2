@@ -72,6 +72,14 @@
 
 #### 修改密码
 
+登录后，点击左边栏【密码】链接
+
+![password_setting](password_setting.png)
+
+在更改密码页面，输入当前密码和两遍新密码，点击【修改】按钮
+
+![modify_password](modify_password.png)
+
 ### 转发地址管理
 
 #### 新增转发地址
