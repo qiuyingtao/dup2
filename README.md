@@ -130,4 +130,69 @@ QQ 信箱会弹出一个警示页面，请点击【继续访问】按钮
 
 ### QQ邮箱
 
+登录 QQ 邮箱，点击【设置】按钮
+
+qqmail_setting.png
+
+在邮箱设置页面中，点击【其他邮箱】链接
+
+qqmail_other_mailbox.png
+
+点击【添加其他邮箱帐户】按钮
+
+qqmail_add_other_mailbox.png
+
+输入域管理员分配的邮箱帐号（以 qyt@dup2.org 为例），并点击【下一步】按钮
+
+qqmail_add_account.png
+
+输入域管理员分配的邮箱帐号初始密码或自己修改后的密码，并点击【验证】按钮
+
+qqmail_input_password.png
+
+按下图输入POP服务器地址、POP服务器端口，并勾选“开启SSL安全连接”，然后点击【验证】按钮
+
+qqmail_pop.png
+
+点击【完成更多设置】
+
+qqmail_more_setting.png
+
+按下图选中“通过其他邮箱的SMTP服务器发送”，输入服务器(SMTP)、端口，安全类型选择“SSL”，然后点击【保存】按钮
+
+qqmail_smtp_setting.png
+
+待刷新完毕，页面左栏的其他邮箱下面会出现刚才配置的邮箱
+
+qqmail_left_bar.png
+
+为了让发到这个邮箱的信件与 QQ 邮箱的其他信件区分开，需要创建一条规则，点击【设置】按钮
+
+qqmail_setting.png
+
+在邮箱设置页面中，点击【收信规则】链接
+
+qqmail_rule.png
+
+点击【创建收信规则】按钮
+
+qqmail_add_rule.png
+
+按下图勾选“如果收件人“，后面输入刚配置的信箱（以 qyt@dup2.org 为例），然后勾选“邮件移动到文件夹”，后面选择刚配置的信箱（以 qyt@dup2.org 为例）
+
+qqmail_config_rule.png
+
+
+
+qmail_execute_rule.png
+
+qqmail_new_mail.png
+
+qqmail_mail_list.png
+
+qqmail_compose.png
+
+qqmail_reply.png
+
+
 ### 126邮箱
