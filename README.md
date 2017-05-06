@@ -100,11 +100,11 @@ QQ 邮箱会弹出一个警示页面，请点击【继续访问】按钮
 
 ![confirm_verify_forwarding](confirm_verify_forwarding.png)
 
-重新登录 [https://www.dup2.com/a/](https://www.dup2.com/a/) ，能看到刚才未验证的转发地址已验证通过
+重新登录 [https://www.dup2.com/a/](https://www.dup2.com/a/) ，能看到刚才未验证的转发地址（本例为 217017@qq.com）已验证通过
 
 ![list_forwarding_after_verify](list_forwarding_after_verify.png)
 
-然后请根据个人转发信箱的不同去各自品牌的在线邮箱的配置发信功能（比如转发地址为 217017@qq.com，则按照 [QQ 邮箱](#qq邮箱) 配置）
+然后请根据个人转发信箱的不同去各自品牌的在线邮箱配置发信功能（比如转发地址为 217017@qq.com，则按照 [QQ 邮箱](#qq邮箱) 配置）
 
 * [Gmail](#gmail)
 
