@@ -136,19 +136,19 @@ QQ 邮箱会弹出一个警示页面，请点击【继续访问】按钮
 
 在邮箱设置页面中，点击【其他邮箱】链接
 
-![qqmail_other_mailbox]/(qqmail/qqmail_other_mailbox.png)
+![qqmail_other_mailbox](qqmail/qqmail_other_mailbox.png)
 
 点击【添加其他邮箱帐户】按钮
 
-![qqmail_add_other_mailbox]/(qqmail/qqmail_add_other_mailbox.png)
+![qqmail_add_other_mailbox](qqmail/qqmail_add_other_mailbox.png)
 
 输入域管理员分配的邮箱帐号（本例为 qyt@dup2.org），并点击【下一步】按钮
 
-![qqmail_add_account]/(qqmail/qqmail_add_account.png)
+![qqmail_add_account](qqmail/qqmail_add_account.png)
 
 输入域管理员分配的邮箱帐号初始密码或自己修改后的密码，并点击【验证】按钮
 
-![qqmail_input_password]/(qqmail/qqmail_input_password.png)
+![qqmail_input_password](qqmail/qqmail_input_password.png)
 
 按下图输入POP服务器地址、POP服务器端口，并勾选“开启SSL安全连接”，然后点击【验证】按钮
 
@@ -156,51 +156,51 @@ QQ 邮箱会弹出一个警示页面，请点击【继续访问】按钮
 
 点击【完成更多设置】
 
-![qqmail_more_setting]/(qqmail/qqmail_more_setting.png)
+![qqmail_more_setting](qqmail/qqmail_more_setting.png)
 
 按下图选中“通过其他邮箱的SMTP服务器发送”，输入服务器(SMTP)、端口，安全类型选择“SSL”，然后点击【保存】按钮
 
-![qqmail_smtp_setting]/(qqmail/qqmail_smtp_setting.png)
+![qqmail_smtp_setting](qqmail/qqmail_smtp_setting.png)
 
 待刷新完毕，页面左栏的其他邮箱下面会出现刚才配置的邮箱
 
-![qqmail_left_bar]/(qqmail/qqmail_left_bar.png)
+![qqmail_left_bar](qqmail/qqmail_left_bar.png)
 
 为了让发到这个邮箱的信件与 QQ 邮箱的其他信件区分开，需要创建一条规则，点击【设置】按钮
 
-![qqmail_setting]/(qqmail/qqmail_setting.png)
+![qqmail_setting](qqmail/qqmail_setting.png)
 
 在邮箱设置页面中，点击【收信规则】链接
 
-![qqmail_rule]/(qqmail/qqmail_rule.png)
+![qqmail_rule](qqmail/qqmail_rule.png)
 
 点击【创建收信规则】按钮
 
-![qqmail_add_rule]/(qqmail/qqmail_add_rule.png)
+![qqmail_add_rule](qqmail/qqmail_add_rule.png)
 
 按下图勾选“如果收件人“，后面输入刚配置的信箱（本例为 qyt@dup2.org），然后勾选“邮件移动到文件夹”，后面选择刚配置的信箱（本例为 qyt@dup2.org），然后点击页面底部的【立即创建】按钮
 
-![qqmail_config_rule]/(qqmail/qqmail_config_rule.png)
+![qqmail_config_rule](qqmail/qqmail_config_rule.png)
 
 在下面的弹出窗口中，点击【是】按钮
 
-![qmail_execute_rule]/(qqmail/qmail_execute_rule.png)
+![qmail_execute_rule](qqmail/qmail_execute_rule.png)
 
 至此，在 QQ 邮箱里的配置完毕。下面可以测试一下，用其他邮箱给域管理员分配的邮箱发一封信（本例为 qyt@dup2.org），稍待片刻，QQ 邮箱的其他邮箱会收到这封信
 
-![qqmail_new_mail]/(qqmail/qqmail_new_mail.png)
+![qqmail_new_mail](qqmail/qqmail_new_mail.png)
 
 点击邮箱后，右边的邮件列表会显示来信
 
-![qqmail_mail_list]/(qqmail/qqmail_mail_list.png)
+![qqmail_mail_list](qqmail/qqmail_mail_list.png)
 
 点击【写信】链接，可以以域管理员分配的邮箱帐号（本例为 qyt@dup2.org）写信
 
-![qqmail_compose]/(qqmail/qqmail_compose.png)
+![qqmail_compose](qqmail/qqmail_compose.png)
 
 在查看收信内容页面，点【回复】按钮，可以以域管理员分配的邮箱帐号（本例为 qyt@dup2.org）回信
 
-![qqmail_reply]/(qqmail/qqmail_reply.png)
+![qqmail_reply](qqmail/qqmail_reply.png)
 
 
 ### 126邮箱
