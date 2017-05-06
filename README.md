@@ -60,7 +60,7 @@
 
 #### 登录
 
-在浏览器地址栏输入 [https://www.dup2.com/a/](https://www.dup2.com/a/)
+在浏览器地址栏输入 [https://www.dup2.com/a/](https://www.dup2.com/a/)，回车，打开普通用户帐号配置登录页
 
 ![login with blank](login_blank.png)
 
@@ -76,7 +76,7 @@
 
 #### 新增转发地址
 
-登录后，点击【添加一个新的转发地址+】
+登录后，点击【添加一个新的转发地址+】链接
 
 ![add_forwarding](add_forwarding.png)
 
@@ -84,7 +84,7 @@
 
 ![add_target](add_target.png)
 
-页面刷新后，显示目前未被验证的转发地址
+页面刷新后，显示刚才新增且目前未被验证的转发地址
 
 ![list_forwarding](list_forwarding.png)
 
@@ -104,7 +104,7 @@ QQ 邮箱会弹出一个警示页面，请点击【继续访问】按钮
 
 ![list_forwarding_after_verify](list_forwarding_after_verify.png)
 
-然后请根据个人转发信箱的类型配置发信功能（比如转发地址是 217017@qq.com，请按照 [QQ 邮箱](#qq邮箱) 配置）
+然后请根据个人转发信箱的不同去各自品牌的在线邮箱的配置发信功能（比如转发地址为 217017@qq.com，则按照 [QQ 邮箱](#qq邮箱) 配置）
 
 * [Gmail](#gmail)
 
@@ -162,7 +162,7 @@ QQ 邮箱会弹出一个警示页面，请点击【继续访问】按钮
 
 ![qqmail_smtp_setting](qqmail/qqmail_smtp_setting.png)
 
-待刷新完毕，页面左栏的其他邮箱下面会出现刚才配置的邮箱
+待刷新完毕，页面左栏的其他邮箱下面会出现刚才配置的邮箱（本例为 qyt@dup2.org）
 
 ![qqmail_left_bar](qqmail/qqmail_left_bar.png)
 
@@ -184,7 +184,7 @@ QQ 邮箱会弹出一个警示页面，请点击【继续访问】按钮
 
 在下面的弹出窗口中，点击【是】按钮
 
-![qmail_execute_rule](qqmail/qmail_execute_rule.png)
+![qmail_execute_rule](qqmail/qqmail_execute_rule.png)
 
 至此，在 QQ 邮箱里的配置完毕。下面可以测试一下，用其他邮箱给域管理员分配的邮箱发一封信（本例为 qyt@dup2.org），稍待片刻，QQ 邮箱的其他邮箱会收到这封信
 
@@ -198,7 +198,7 @@ QQ 邮箱会弹出一个警示页面，请点击【继续访问】按钮
 
 ![qqmail_compose](qqmail/qqmail_compose.png)
 
-在查看收信内容页面，点【回复】按钮，可以以域管理员分配的邮箱帐号（本例为 qyt@dup2.org）回信
+在查看收信内容页面里点【回复】按钮，可以以域管理员分配的邮箱帐号（本例为 qyt@dup2.org）回信
 
 ![qqmail_reply](qqmail/qqmail_reply.png)
 
