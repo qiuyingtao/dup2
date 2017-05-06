@@ -66,7 +66,7 @@
 
 输入域管理员分配的邮箱帐号（以 qyt@dup2.org 为例）和初始密码
 
-![login with data](qqmail/login_data.png)
+![login with data](login_data.png)
 
 点【Login】按钮即能登录
 
