@@ -84,7 +84,7 @@
 
 ![add_target](add_target.png)
 
-页面刷新后，显示刚才新增且目前未被验证的转发地址
+页面刷新后，显示刚才新增且目前未被验证的转发地址（本例为 217017@qq.com）
 
 ![list_forwarding](list_forwarding.png)
 
