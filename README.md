@@ -64,7 +64,7 @@
 
 ![login with blank](login_blank.png)
 
-2.输入域管理员分配的邮箱帐号（本例为 qyt@dup2.org）和初始密码
+2.输入域管理员分配的邮箱帐号（本例为 qyt@dup2.org）和密码
 
 ![login with data](login_data.png)
 
