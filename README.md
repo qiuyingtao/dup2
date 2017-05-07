@@ -112,7 +112,7 @@
 
 ![list_forwarding_after_verify](list_forwarding_after_verify.png)
 
-8.然后请根据个人转发信箱的不同去各自品牌的在线邮箱配置发信功能（比如转发地址为 217017@qq.com，则按照 [QQ 邮箱](#qq邮箱) 配置）
+8.然后请根据个人转发地址的不同，去各自品牌的在线邮箱配置发信功能（比如转发地址为 217017@qq.com，则按照 [QQ 邮箱](#qq邮箱) 配置）
 
 * [Gmail](#gmail)
 
