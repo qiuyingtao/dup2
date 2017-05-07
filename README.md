@@ -104,7 +104,7 @@
 
 ![verify_forwarding](verify_forwarding.png)
 
-6.QQ 邮箱会弹出一个警示页面，请点击【继续访问】按钮
+6.如果您登录的是 QQ 邮箱，将会弹出一个警示页面，请点击【继续访问】按钮
 
 ![confirm_verify_forwarding](confirm_verify_forwarding.png)
 
