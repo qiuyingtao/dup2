@@ -96,7 +96,7 @@
 
 ![list_forwarding](list_forwarding.png)
 
-4.稍待两分钟，登录转发地址邮箱（本例第 2 步转发地址为 217017@qq.com，所以登录 QQ 邮箱，收到一封验证信
+4.稍待两分钟，登录转发地址邮箱（本例第 2 步转发地址为 217017@qq.com，所以登录 QQ 邮箱），收到一封验证信
 
 ![list_qqmail](list_qqmail.png)
 
