@@ -206,7 +206,7 @@
 
 ![qqmail_compose](qqmail/qqmail_compose.png)
 
-18.在查看收信内容页面里点【回复】按钮，可以以域管理员分配的邮箱帐号（本例为 qyt@dup2.org）回信
+18.在查看信件内容页面里点【回复】按钮，可以以域管理员分配的邮箱帐号（本例为 qyt@dup2.org）回信
 
 ![qqmail_reply](qqmail/qqmail_reply.png)
 
